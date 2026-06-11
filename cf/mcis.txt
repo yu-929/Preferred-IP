@@ -1,16 +1,15 @@
-1       104.25.245.211  52.0ms  ok=true status=200      prefix=104.25.244.0/22  colo=HKG        dl_ok=true      dl_mbps=76.27   dl_ms=5244
-2       104.25.251.217  52.0ms  ok=true status=200      prefix=104.25.251.0/24  colo=HKG        dl_ok=true      dl_mbps=63.19   dl_ms=6329
-3       104.25.242.123  52.0ms  ok=true status=200      prefix=104.25.240.0/20  colo=HKG        dl_ok=true      dl_mbps=48.26   dl_ms=8288
-4       104.25.241.63   51.0ms  ok=true status=200      prefix=104.25.241.0/24  colo=HKG        dl_ok=true      dl_mbps=45.96   dl_ms=8702
-1       104.25.244.39   52.0ms  ok=true status=200      prefix=104.25.244.0/24  colo=HKG        dl_ok=true      dl_mbps=76.82   dl_ms=5206
-2       172.64.153.194  52.0ms  ok=true status=200      prefix=172.64.153.0/24  colo=HKG        dl_ok=true      dl_mbps=65.71   dl_ms=6087
-3       104.25.244.102  53.0ms  ok=true status=200      prefix=104.25.244.0/24  colo=HKG        dl_ok=true      dl_mbps=60.22   dl_ms=6642
-
-
-
-
-1       104.25.245.9    51.0ms  ok=true status=200      prefix=104.25.245.0/24  colo=HKG        dl_ok=true      dl_mbps=86.54   dl_ms=4622
-2       104.25.244.241  52.0ms  ok=true status=200      prefix=104.25.244.0/24  colo=HKG        dl_ok=true      dl_mbps=85.52   dl_ms=4677
-3       104.25.244.81   52.0ms  ok=true status=200      prefix=104.25.244.0/24  colo=HKG        dl_ok=true      dl_mbps=86.42   dl_ms=4628
-4       104.25.241.146  52.0ms  ok=true status=200      prefix=104.25.241.0/24  colo=HKG        dl_ok=true      dl_mbps=86.44   dl_ms=4627
-5       172.64.153.233  53.0ms  ok=true status=200      prefix=172.64.153.0/24  colo=HKG        dl_ok=true      dl_mbps=86.44   dl_ms=4627
+104.25.245.211:443#СǮ��ѡMCIS
+104.25.251.217:443#СǮ��ѡMCIS
+104.25.242.123:443#СǮ��ѡMCIS
+104.25.241.63:443#СǮ��ѡMCIS
+104.25.244.39:443#СǮ��ѡMCIS
+172.64.153.194:443#СǮ��ѡMCIS
+104.25.244.102:443#СǮ��ѡMCIS
+104.25.245.9:443#СǮ��ѡMCIS
+104.25.244.241:443#СǮ��ѡMCIS
+104.25.244.81:443#СǮ��ѡMCIS
+104.25.241.146:443#СǮ��ѡMCIS
+172.64.153.233:443#СǮ��ѡMCIS
+172.64.153.123:443#СǮ��ѡMCIS
+104.25.241.87:443#СǮ��ѡMCIS
+104.25.244.39:443#СǮ��ѡMCIS
